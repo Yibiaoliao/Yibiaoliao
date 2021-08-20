@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yibiao John Liao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything..
+- 👀 I’m looking for an entry-level job in cybersecurity or software engineering
+- 🌱 I’m currently learning Python and enhance my skills in Java and SQL.
+- 💞️ I’m currently collaborating a mini game with my partners
 - 📫 How to reach me :Yibiaoliao210@gmail.com
 
 <!---
